@@ -1,0 +1,1465 @@
+[
+    {   "id":"1",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/blue lock/blueLock1.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"2",
+        "nombre": "blueLock ",
+        "capitulo": "Capitulo 2",
+        "img": "./proyecto manga/blue lock/blueLock2.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"3",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/blue lock/blueLock3.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"4",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/blue lock/blueLock4.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"5",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/blue lock/blueLock5.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"6",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/blue lock/blueLock6.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"7",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/blue lock/blueLock7.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"8",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/blue lock/blueLock8.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"9",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/blue lock/blueLock9.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"10",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/blue lock/blueLock10.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"11",
+        "nombre": "blueLock ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/blue lock/blueLock11.jpeg",
+        "precio": "2000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"blueLock",
+            "id":"bluelock"
+        }},
+        {   "id":"12",
+        "nombre": "bocchi the rock ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/bocchi/bocchi1.jpeg",
+        "precio": "1000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"bocchi",
+            "id":"bocchi"
+        }},
+        {   "id":"13",
+        "nombre": "bocchi the rock ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/bocchi/bocchi2.jpeg",
+        "precio": "1000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"bocchi",
+            "id":"bocchi"
+        }},
+        {   "id":"14",
+        "nombre": "bocchi the rock ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/bocchi/bocchi3.jpeg",
+        "precio": "1000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"bocchi",
+            "id":"bocchi"
+        }},
+        {   "id":"15",
+        "nombre": "bocchi the rock ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/bocchi/bocchi4.jpeg",
+        "precio": "1000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"bocchi",
+            "id":"bocchi"
+        }},
+        {   "id":"16",
+        "nombre": "bocchi the rock ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/bocchi/bocchi5.jpeg",
+        "precio": "1000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"bocchi",
+            "id":"bocchi"
+        }},
+        {   "id":"17",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/Btoom/btoom1.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"18",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/Btoom/btoom2.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"19",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/Btoom/btoom3.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"20",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/Btoom/btoom4.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"21",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/Btoom/btoom5.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"22",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/Btoom/btoom6.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"23",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/Btoom/btoom7.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"24",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/Btoom/btoom8.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"25",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/Btoom/btoom9.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"26",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/Btoom/btoom10.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"27",
+        "nombre": "Btoom ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/Btoom/btoom11.jpeg",
+        "precio": "1800",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"btoom",
+            "id":"btoom"
+        }},
+        {   "id":"28",
+        "nombre": "Chainsawman ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/chainsawman/chainsaw1.jpeg",
+        "precio": "2500",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Chainsawman",
+            "id":"chainsawman"
+        }},
+        {   "id":"29",
+        "nombre": "Chainsawman ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/chainsawman/chainsaw2.jpeg",
+        "precio": "2500",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Chainsawman",
+            "id":"chainsawman"
+        }},
+        {   "id":"30",
+        "nombre": "Chainsawman ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/chainsawman/chainsaw3.jpeg",
+        "precio": "2500",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Chainsawman",
+            "id":"chainsawman"
+        }},
+        {   "id":"31",
+        "nombre": "Chainsawman ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/chainsawman/chainsaw4.jpeg",
+        "precio": "2500",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Chainsawman",
+            "id":"chainsawman"
+        }},
+        {   "id":"32",
+        "nombre": "Chainsawman ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/chainsawman/chainsaw5.jpeg",
+        "precio": "2500",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Chainsawman",
+            "id":"Chainsawman"
+        }},
+        {   "id":"33",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/deadmanWonderland/deadman1.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"34",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/deadmanWonderland/deadman2.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"35",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/deadmanWonderland/deadman3.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"36",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/deadmanWonderland/deadman4.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"37",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/deadmanWonderland/deadman5.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"38",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/deadmanWonderland/deadman6.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"39",
+        "nombre": "Deadman ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/deadmanWonderland/deadman7.jpeg",
+        "precio": "1700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Deadman ",
+            "id":"Deadman"
+        }},
+        {   "id":"40",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/deathNote/deathNote1.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"41",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/deathNote/deathNote2.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"42",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/deathNote/deathNote3.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"43",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/deathNote/deathNote4.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"44",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/deathNote/deathNote5.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"45",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/deathNote/deathNote6.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"46",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/deathNote/deathNote7.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"47",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/deathNote/deathNote8.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"48",
+        "nombre": "Death Note ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/deathNote/deathNote9.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Death Note ",
+            "id":"death"
+        }},
+        {   "id":"49",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 0",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu0.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"50",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu1.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"51",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu2.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"52",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu3.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"53",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu4.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"54",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu5.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"55",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu6.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"56",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu7.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"57",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu8.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"58",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu9.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"59",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu10.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"60",
+        "nombre": "Jujutsu Kaisen ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/jujutsuKaisen/jujutsu11.jpeg",
+        "precio": "2200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"Jujutsu Kaisen ",
+            "id":"jujutsu"
+        }},
+        {   "id":"61",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba1.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"62",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba2.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"63",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba3.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"64",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba4.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"65",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba5.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"66",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba6.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"67",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba7.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"68",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba8.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"69",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba9.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"70",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba10.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"71",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba11.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"72",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 12",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba12.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"73",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 13",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba13.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"74",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 14",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba14.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"75",
+        "nombre": "Kimetsu no Yaiba ",
+        "capitulo":"Capitulo 15",
+        "img": "./proyecto manga/kimetsuNoYaiba/kimetsuNoYaiba15.jpeg",
+        "precio": "3000",
+        "cantidad":"1",
+        "categorias":{
+            "nombre":"kimetsu ",
+            "id":"kimetsu"
+        }},
+        {   "id":"76",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/kimiNiTodoke/todoke1.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"77",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/kimiNiTodoke/todoke2.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"78",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/kimiNiTodoke/todoke3.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"79",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/kimiNiTodoke/todoke4.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"80",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/kimiNiTodoke/todoke5.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"81",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/kimiNiTodoke/todoke6.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"82",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 7",
+        "cantidad":"1",
+        "img": "./proyecto manga/kimiNiTodoke/todoke7.jpeg",
+        "precio": "900",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"83",
+        "nombre": "Kimi Ni Todoke ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/kimiNiTodoke/todoke8.jpeg",
+        "precio": "900",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KiminiTodoke",
+            "id":"kimini"   
+        }},
+        {   "id":"84",
+        "nombre": "Kimi No Nawa ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/kimiNoNawa/kimiNoNawa1.jpeg",
+        "precio": "2700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KimiNoNawa ",
+            "id":"kimino"   
+        }},
+        {   "id":"85",
+        "nombre": "Kimi No Nawa ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/kimiNoNawa/kimiNoNawa2.jpeg",
+        "precio": "2700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KimiNoNawa ",
+            "id":"kimino"   
+        }},
+        {   "id":"86",
+        "nombre": "Kimi No Nawa ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/kimiNoNawa/kimiNoNawa3.jpeg",
+        "precio": "2700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KimiNoNawa ",
+            "id":"kimino"   
+        }},
+        {   "id":"87",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/koeNoKatachi/koe1.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"88",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/koeNoKatachi/koe2.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"89",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/koeNoKatachi/koe3.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"90",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/koeNoKatachi/koe4.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"91",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/koeNoKatachi/koe5.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"92",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/koeNoKatachi/koe6.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"93",
+        "nombre": "Koe No Katachi ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/koeNoKatachi/koe7.jpeg",
+        "precio": "1600",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "KoeNoKatachi ",
+            "id":"koe"   
+        }},
+        {   "id":"94",
+        "nombre": "Love Is War ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/loveIsWar/love1.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "loveIsWar ",
+            "id":"love"  
+        }},
+        {   "id":"95",
+        "nombre": "Love Is War ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/loveIsWar/love2.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "loveIsWar ",
+            "id":"love"  
+        }},
+        {   "id":"96",
+        "nombre": "Love Is War ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/loveIsWar/love3.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "loveIsWar ",
+            "id":"love"  
+        }},
+        {   "id":"97",
+        "nombre": "Love Is War ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/loveIsWar/love4.jpeg",
+        "precio": "1200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "loveIsWar ",
+            "id":"love"  
+        }},
+        {   "id":"98",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/shuumatsu/shuumatsu1.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"99",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/shuumatsu/shuumatsu2.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"100",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/shuumatsu/shuumatsu3.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"101",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/shuumatsu/shuumatsu4.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"102",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/shuumatsu/shuumatsu5.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"103",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/shuumatsu/shuumatsu6.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"104",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/shuumatsu/shuumatsu7.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"105",
+        "nombre": "Shuumatsu No Valkyrie ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/shuumatsu/shuumatsu8.jpeg",
+        "precio": "1400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "shuumatsu ",
+            "id":"shuumatsu "   
+        }},
+        {   "id":"106",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/slamDunk/slamDunk1.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"107",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/slamDunk/slamDunk2.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"108",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/slamDunk/slamDunk3.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"109",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/slamDunk/slamDunk4.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"110",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/slamDunk/slamDunk5.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"111",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/slamDunk/slamDunk6.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"112",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/slamDunk/slamDunk7.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"113",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/slamDunk/slamDunk8.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"114",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/slamDunk/slamDunk9.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"115",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/slamDunk/slamDunk10.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"116",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/slamDunk/slamDunk11.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"117",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 12",
+        "img": "./proyecto manga/slamDunk/slamDunk12.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"118",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 13",
+        "img": "./proyecto manga/slamDunk/slamDunk13.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"119",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 14",
+        "img": "./proyecto manga/slamDunk/slamDunk14.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"120",
+        "nombre": "Slam Dunk ",
+        "capitulo":"Capitulo 15",
+        "img": "./proyecto manga/slamDunk/slamDunk15.jpeg",
+        "precio": "2400",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "slamDunk ",
+            "id":"slamDunk "   
+        }},
+        {   "id":"121",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/spyxfamily/spy1.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"122",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/spyxfamily/spy2.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"123",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/spyxfamily/spy3.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"124",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/spyxfamily/spy4.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"125",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/spyxfamily/spy5.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"126",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/spyxfamily/spy6.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"127",
+        "nombre": "SpyxFamily ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/spyxfamily/spy7.jpeg",
+        "precio": "2100",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "SpyxFamily ",
+            "id":"spy"   
+        }},
+        {   "id":"128",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/vagabond/vagabond1.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"129",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/vagabond/vagabond2.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"130",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/vagabond/vagabond3.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"131",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/vagabond/vagabond4.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"132",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/vagabond/vagabond5.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"133",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/vagabond/vagabond6.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"134",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/vagabond/vagabond7.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"135",
+        "nombre": "Vagabond ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/vagabond/vagabond7.jpeg",
+        "precio": "3700",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "Vagabond ",
+            "id":"Vagabond "   
+        }},
+        {   "id":"136",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 1",
+        "img": "./proyecto manga/yourLieApril/April1.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"137",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 2",
+        "img": "./proyecto manga/yourLieApril/April2.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"138",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 3",
+        "img": "./proyecto manga/yourLieApril/April3.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"139",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 4",
+        "img": "./proyecto manga/yourLieApril/April4.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"140",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 5",
+        "img": "./proyecto manga/yourLieApril/April5.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"141",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 6",
+        "img": "./proyecto manga/yourLieApril/April6.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"142",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 7",
+        "img": "./proyecto manga/yourLieApril/April7.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"143",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 8",
+        "img": "./proyecto manga/yourLieApril/April8.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"144",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 9",
+        "img": "./proyecto manga/yourLieApril/April9.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"145",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 10",
+        "img": "./proyecto manga/yourLieApril/April10.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }},
+        {   "id":"146",
+        "nombre": "Your Lie in April ",
+        "capitulo":"Capitulo 11",
+        "img": "./proyecto manga/yourLieApril/April11.jpeg",
+        "precio": "3200",
+        "cantidad":"1",
+        "categorias":{
+            "nombre": "April ",
+            "id":"april"   
+        }}
+        
+        
+        
+]
