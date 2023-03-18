@@ -112,7 +112,7 @@
         {   "id":"12",
         "nombre": "bocchi the rock ",
         "capitulo":"Capitulo 1",
-        "img": "./proyecto manga/bocchi/bocchi1.jpeg",
+        "img": "./proyecto manga/Bocchi/Bocchi1.jpeg",
         "precio": "1000",
         "cantidad":"1",
         "categorias":{
@@ -122,7 +122,7 @@
         {   "id":"13",
         "nombre": "bocchi the rock ",
         "capitulo":"Capitulo 2",
-        "img": "./proyecto manga/bocchi/bocchi2.jpeg",
+        "img": "./proyecto manga/Bocchi/Bocchi2.jpeg",
         "precio": "1000",
         "cantidad":"1",
         "categorias":{
@@ -132,7 +132,7 @@
         {   "id":"14",
         "nombre": "bocchi the rock ",
         "capitulo":"Capitulo 3",
-        "img": "./proyecto manga/bocchi/bocchi3.jpeg",
+        "img": "./proyecto manga/Bocchi/Bocchi3.jpeg",
         "precio": "1000",
         "cantidad":"1",
         "categorias":{
@@ -142,7 +142,7 @@
         {   "id":"15",
         "nombre": "bocchi the rock ",
         "capitulo":"Capitulo 4",
-        "img": "./proyecto manga/bocchi/bocchi4.jpeg",
+        "img": "./proyecto manga/Bocchi/Bocchi4.jpeg",
         "precio": "1000",
         "cantidad":"1",
         "categorias":{
@@ -152,7 +152,7 @@
         {   "id":"16",
         "nombre": "bocchi the rock ",
         "capitulo":"Capitulo 5",
-        "img": "./proyecto manga/bocchi/bocchi5.jpeg",
+        "img": "./proyecto manga/Bocchi/Bocchi5.jpeg",
         "precio": "1000",
         "cantidad":"1",
         "categorias":{
@@ -1202,7 +1202,7 @@
         {   "id":"121",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 1",
-        "img": "./proyecto manga/spyxfamily/spy1.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy1.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1212,7 +1212,7 @@
         {   "id":"122",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 2",
-        "img": "./proyecto manga/spyxfamily/spy2.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy2.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1222,7 +1222,7 @@
         {   "id":"123",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 3",
-        "img": "./proyecto manga/spyxfamily/spy3.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy3.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1232,7 +1232,7 @@
         {   "id":"124",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 4",
-        "img": "./proyecto manga/spyxfamily/spy4.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy4.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1242,7 +1242,7 @@
         {   "id":"125",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 5",
-        "img": "./proyecto manga/spyxfamily/spy5.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy5.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1252,7 +1252,7 @@
         {   "id":"126",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 6",
-        "img": "./proyecto manga/spyxfamily/spy6.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy6.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
@@ -1262,7 +1262,7 @@
         {   "id":"127",
         "nombre": "SpyxFamily ",
         "capitulo":"Capitulo 7",
-        "img": "./proyecto manga/spyxfamily/spy7.jpeg",
+        "img": "./proyecto manga/spyXfamily/spy7.jpeg",
         "precio": "2100",
         "cantidad":"1",
         "categorias":{
